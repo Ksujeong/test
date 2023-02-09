@@ -48,4 +48,4 @@ for a in range(0, 361):
   t.pendown()
 turtle.exitonclick()
 
-asdfasdfasdf
+asdf
